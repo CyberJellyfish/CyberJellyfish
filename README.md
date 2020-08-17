@@ -1,16 +1,34 @@
-### Hi there 👋
+### :cherry_blossom: Hello there! :cherry_blossom:
 
-<!--
-**CyberJellyfish/CyberJellyfish** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+------------------------------
+ My name is Yagnes Salomão, my nickname is CyberJellyfish and I'm pursuing my way to become a Front-End Developer!
 
-Here are some ideas to get you started:
+### CyberJellyfish WHO?
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+As Michael Scott would say:
+
+>Sometimes I’ll start a sentence and I don’t even know where it’s going. 
+>I just hope I find it along the way. (Season 5, The Duel)
+
+* :pig_nose: I really like pigs;
+* :video_game: I love playing video-games and boardgames;
+* :black_large_square: I also make pixel art;
+
+### What I know? 
+
+⚡ HTML;
+
+⚡ CSS;
+
+⚡ Bootstrap;
+
+### What am I learning? 
+
+🌱 JavaScript;
+
+🌱 Java;
+
+🌱 React;
+
+###  Where you cand find me? 
+📫 LinkedIn: www.linkedin.com/in/yagnessalomao
