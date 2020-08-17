@@ -30,5 +30,5 @@ As Michael Scott would say:
 
 🌱 React;
 
-###  Where you cand find me? 
+###  Where you can find me? 
 📫 LinkedIn: www.linkedin.com/in/yagnessalomao
