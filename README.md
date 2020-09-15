@@ -34,4 +34,5 @@ As Michael Scott would say:
 
 ###  Where can you find me? 
 📫 LinkedIn: www.linkedin.com/in/yagnessalomao
+
 📫 E-mail: yrsalomao@gmail.com
