@@ -22,6 +22,8 @@ As Michael Scott would say:
 
 ⚡ Bootstrap;
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CyberJellyfish&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 ### What am I learning? 
 
 🌱 JavaScript;
@@ -32,3 +34,4 @@ As Michael Scott would say:
 
 ###  Where can you find me? 
 📫 LinkedIn: www.linkedin.com/in/yagnessalomao
+📫 E-mail: yrsalomao@gmail.com
