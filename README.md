@@ -32,6 +32,14 @@ As Michael Scott would say:
 
 🌱 React;
 
+###  Did you see my last work?
+[Omnifood](https://dazzling-turing-97c103.netlify.app/ "Omnifood")  - Responsive website for the course "Build Responsive Real World Websites with HTML5 and CSS3" from StackSkills
+
+![Omnifood](https://github.com/CyberJellyfish/Omnifood/blob/master/images/Omnifoodgif.gif)
+
+[Repository](https://github.com/CyberJellyfish/Omnifood)
+
+
 ###  Where can you find me? 
 📫 LinkedIn: www.linkedin.com/in/yagnessalomao
 
